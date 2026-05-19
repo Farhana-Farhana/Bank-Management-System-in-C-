@@ -1,6 +1,5 @@
 # Bank Management System in C++
 
-## Overview
 This project is a console-based Bank Management Application developed using C++.  
 It simulates core banking operations using object-oriented programming and file handling.
 
@@ -35,7 +34,7 @@ The system allows users to:
 
 ### Compile
 ```bash
-g++ main.cpp -o bank
+g++ task2.cpp -o bank
 ```
 
 ### Run
