@@ -80,27 +80,14 @@ bank.txt
 
 # Output Screenshots
 
-## Create Account
+<p align="center">
 
-![Create Account](op1.png)
+<img src="op1.png" width="270"/>
+<img src="op2.png" width="270"/>
+<img src="op3.png" width="270"/>
+<img src="op4.png" width="270"/>
 
----
-
-## Deposit Money
-
-![Deposit](op2.png)
-
----
-
-## Withdraw Money
-
-![Withdraw](op3.png)
-
----
-
-## Balance Inquiry
-
-![Balance Check](op4.png)
+</p>
 
 ## Expected Outcome
 A secure and functional banking system capable of performing deposits, withdrawals, and balance inquiries while maintaining persistent customer records.
