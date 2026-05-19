@@ -82,10 +82,15 @@ bank.txt
 
 <p align="center">
 
-<img src="op1.png" width="270"/>
-<img src="op2.png" width="270"/>
-<img src="op3.png" width="270"/>
-<img src="op4.png" width="270"/>
+<img src="op1.png" width="400"/>
+<img src="op2.png" width="400"/>
+
+</p>
+
+<p align="center">
+
+<img src="op3.png" width="400"/>
+<img src="op4.png" width="400"/>
 
 </p>
 
